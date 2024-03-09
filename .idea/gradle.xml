@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/base_library" />
+            <option value="$PROJECT_DIR$/dependent1_library" />
+            <option value="$PROJECT_DIR$/dependent2_library" />
+            <option value="$PROJECT_DIR$/sample2" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

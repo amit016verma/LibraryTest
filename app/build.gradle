@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.librarytest'
+    namespace 'com.amit_verma.librarytest'
     compileSdk 34
 
     defaultConfig {
